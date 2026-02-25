@@ -1,0 +1,25 @@
+# system
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# databases (prevent accidents)
+*.db
+*.sqlite
+*.sqlite3
+
+# logs
+*.log
+
+# temp
+tmp/
+temp/

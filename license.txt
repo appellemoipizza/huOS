@@ -1,0 +1,9 @@
+copyright (c) 2026 thomas vezzani. all rights reserved.
+
+this repository is provided for viewing and evaluation purposes only.
+
+no permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell any part of the code or documentation, except with
+prior written permission from the copyright holder.
+
+the software is provided "as is", without warranty of any kind.
