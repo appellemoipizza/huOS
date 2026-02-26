@@ -6,10 +6,6 @@ all notable structural changes to huos are documented here.
 
 
 
-this file focuses on system architecture and storage evolution.
-
-
-
 ---
 
 
@@ -28,7 +24,7 @@ this file focuses on system architecture and storage evolution.
 
 \- stable entry schema finalized
 
-\- optional local ai assistance via ollama
+\- local ai assistance via ollama
 
 \- clear separation between storage, interface, and ai layers
 
@@ -64,7 +60,7 @@ this file focuses on system architecture and storage evolution.
 
 \- `derived\_from` remains single-parent lineage link (nullable)
 
-\- `linked\_to` supports multi-id cross-referencing
+\- `linked\_to` supports multi-id cross-referencing (nullable)
 
 \- `type` enables lightweight classification without expanding ontology
 
